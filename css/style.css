@@ -18,7 +18,7 @@ height: auto;
 }
 
 .header{
-
+    background-color: #FFF8F3;
 }
 
 .primary-color{
@@ -35,6 +35,7 @@ height: auto;
     font-family: 'Open Sans', sans-serif;
     font-size: 45px;
     font-weight: 800;
+    margin: 0px;
 
 }
 
@@ -42,8 +43,11 @@ height: auto;
 nav >ul{
     display: flex;
     align-items: center;
+    margin-left: 738px;
 
 }
+
+
 
 
 .header ul li{

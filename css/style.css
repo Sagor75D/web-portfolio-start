@@ -11,7 +11,7 @@ body{
 }
 
 .main{
-width: 800px;
+width: 1200px;
 height: auto;
 
 
@@ -21,14 +21,13 @@ height: auto;
 
 }
 
-.primary-colour{
+.primary-color{
     color: #FD6E0A;
 }
 
 .header nav{
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    margin-top: 20px;
 
 }
 
@@ -39,17 +38,21 @@ height: auto;
 
 }
 
-.header ul{}
+
+nav >ul{
+    display: flex;
+    align-items: center;
+
+}
+
 
 .header ul li{
     list-style: none;
     margin-right: 50px;
     float: left;
-    align-items: center;
     
     
     
-
 }
 
 .header ul li a{
@@ -80,3 +83,4 @@ height: auto;
 .footer{
 
 }
+

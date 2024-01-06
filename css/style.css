@@ -20,12 +20,17 @@ height: auto;
 
 }
 
+.primary-colour{
+    color: #FD6E0A;
+}
+
 .header nav{
     display: flex;
 }
 
 .header nav h2{
     font-family: 'Open Sans', sans-serif;
+    font-size: 45px;
     font-weight: 800;
 
 }

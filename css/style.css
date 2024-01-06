@@ -14,6 +14,7 @@ body{
 width: 800px;
 height: auto;
 
+
 }
 
 .header{
@@ -39,8 +40,9 @@ height: auto;
 
 .header ul li{
     list-style: none;
-    margin-right: 10px;
-    float: right;
+    margin-right: 50px;
+    float: left;
+    
     
     
 
@@ -48,6 +50,20 @@ height: auto;
 
 .header ul li a{
     text-decoration: none;
+    color: #474747;
+}
+
+
+.but-primary{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    width: 150px;
+    height: 64px;
+    color: #fff;
+    background-color: #FD6E0A;
+    border-style: none;
+
 }
 
 .boby{
